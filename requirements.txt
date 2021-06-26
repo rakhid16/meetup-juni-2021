@@ -1,0 +1,4 @@
+aiohttp==3.7.4.post0
+asyncpg==0.22.0
+requests==2.15.1
+psycopg2-binary==2.8.6
